@@ -1,0 +1,6 @@
+TODO file for project ideas etc:
+
+Blender stuff
+Calculator
+TCP/UDP communication
+Arduino stuff
